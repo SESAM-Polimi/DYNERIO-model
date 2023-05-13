@@ -1,0 +1,359 @@
+,,unit
+Activity,Cultivation of paddy rice,EUR
+Activity,Cultivation of wheat,EUR
+Activity,Cultivation of cereal grains nec,EUR
+Activity,"Cultivation of vegetables, fruit, nuts",EUR
+Activity,Cultivation of oil seeds,EUR
+Activity,"Cultivation of sugar cane, sugar beet",EUR
+Activity,Cultivation of plant-based fibers,EUR
+Activity,Cultivation of crops nec,EUR
+Activity,Cattle farming,EUR
+Activity,Pigs farming,EUR
+Activity,Poultry farming,EUR
+Activity,Meat animals nec,EUR
+Activity,Animal products nec,EUR
+Activity,Raw milk,EUR
+Activity,"Wool, silk-worm cocoons",EUR
+Activity,"Manure treatment (conventional), storage and land application",EUR
+Activity,"Manure treatment (biogas), storage and land application",EUR
+Activity,"Forestry, logging and related service activities (02)",EUR
+Activity,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",EUR
+Activity,Mining of coal and lignite; extraction of peat (10),EUR
+Activity,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",EUR
+Activity,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",EUR
+Activity,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",EUR
+Activity,Mining of uranium and thorium ores (12),EUR
+Activity,Mining of iron ores,EUR
+Activity,Mining of copper ores and concentrates,EUR
+Activity,Mining of nickel ores and concentrates,EUR
+Activity,Mining of aluminium ores and concentrates,EUR
+Activity,Mining of precious metal ores and concentrates,EUR
+Activity,"Mining of lead, zinc and tin ores and concentrates",EUR
+Activity,Mining of other non-ferrous metal ores and concentrates,EUR
+Activity,Quarrying of stone,EUR
+Activity,Quarrying of sand and clay,EUR
+Activity,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",EUR
+Activity,Processing of meat cattle,EUR
+Activity,Processing of meat pigs,EUR
+Activity,Processing of meat poultry,EUR
+Activity,Production of meat products nec,EUR
+Activity,Processing vegetable oils and fats,EUR
+Activity,Processing of dairy products,EUR
+Activity,Processed rice,EUR
+Activity,Sugar refining,EUR
+Activity,Processing of Food products nec,EUR
+Activity,Manufacture of beverages,EUR
+Activity,Manufacture of fish products,EUR
+Activity,Manufacture of tobacco products (16),EUR
+Activity,Manufacture of textiles (17),EUR
+Activity,Manufacture of wearing apparel; dressing and dyeing of fur (18),EUR
+Activity,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",EUR
+Activity,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",EUR
+Activity,Re-processing of secondary wood material into new wood material,EUR
+Activity,Pulp,EUR
+Activity,Re-processing of secondary paper into new pulp,EUR
+Activity,Paper,EUR
+Activity,"Publishing, printing and reproduction of recorded media (22)",EUR
+Activity,Manufacture of coke oven products,EUR
+Activity,Petroleum Refinery,EUR
+Activity,Processing of nuclear fuel,EUR
+Activity,"Plastics, basic",EUR
+Activity,Re-processing of secondary plastic into new plastic,EUR
+Activity,N-fertiliser,EUR
+Activity,P- and other fertiliser,EUR
+Activity,Chemicals nec,EUR
+Activity,Manufacture of rubber and plastic products (25),EUR
+Activity,Manufacture of glass and glass products,EUR
+Activity,Re-processing of secondary glass into new glass,EUR
+Activity,Manufacture of ceramic goods,EUR
+Activity,"Manufacture of bricks, tiles and construction products, in baked clay",EUR
+Activity,"Manufacture of cement, lime and plaster",EUR
+Activity,Re-processing of ash into clinker,EUR
+Activity,Manufacture of other non-metallic mineral products n.e.c.,EUR
+Activity,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,EUR
+Activity,Re-processing of secondary steel into new steel,EUR
+Activity,Precious metals production,EUR
+Activity,Re-processing of secondary preciuos metals into new preciuos metals,EUR
+Activity,Aluminium production,EUR
+Activity,Re-processing of secondary aluminium into new aluminium,EUR
+Activity,"Lead, zinc and tin production",EUR
+Activity,"Re-processing of secondary lead into new lead, zinc and tin",EUR
+Activity,Copper production,EUR
+Activity,Re-processing of secondary copper into new copper,EUR
+Activity,Other non-ferrous metal production,EUR
+Activity,Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,EUR
+Activity,Casting of metals,EUR
+Activity,"Manufacture of fabricated metal products, except machinery and equipment (28)",EUR
+Activity,Manufacture of machinery and equipment n.e.c. (29),EUR
+Activity,Manufacture of office machinery and computers (30),EUR
+Activity,Manufacture of electrical machinery and apparatus n.e.c. (31),EUR
+Activity,"Manufacture of radio, television and communication equipment and apparatus (32)",EUR
+Activity,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",EUR
+Activity,"Manufacture of motor vehicles, trailers and semi-trailers (34)",EUR
+Activity,Manufacture of other transport equipment (35),EUR
+Activity,Manufacture of furniture; manufacturing n.e.c. (36),EUR
+Activity,Recycling of waste and scrap,EUR
+Activity,Recycling of bottles by direct reuse,EUR
+Activity,Production of electricity by coal,EUR
+Activity,Production of electricity by gas,EUR
+Activity,Production of electricity by nuclear,EUR
+Activity,Production of electricity by hydro,EUR
+Activity,Production of electricity by wind,EUR
+Activity,Production of electricity by petroleum and other oil derivatives,EUR
+Activity,Production of electricity by biomass and waste,EUR
+Activity,Production of electricity by solar photovoltaic,EUR
+Activity,Production of electricity by solar thermal,EUR
+Activity,"Production of electricity by tide, wave, ocean",EUR
+Activity,Production of electricity by Geothermal,EUR
+Activity,Production of electricity nec,EUR
+Activity,Transmission of electricity,EUR
+Activity,Distribution and trade of electricity,EUR
+Activity,Manufacture of gas; distribution of gaseous fuels through mains,EUR
+Activity,Steam and hot water supply,EUR
+Activity,"Collection, purification and distribution of water (41)",EUR
+Activity,Construction (45),EUR
+Activity,Re-processing of secondary construction material into aggregates,EUR
+Activity,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",EUR
+Activity,Retail sale of automotive fuel,EUR
+Activity,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",EUR
+Activity,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",EUR
+Activity,Hotels and restaurants (55),EUR
+Activity,Transport via railways,EUR
+Activity,Other land transport,EUR
+Activity,Transport via pipelines,EUR
+Activity,Sea and coastal water transport,EUR
+Activity,Inland water transport,EUR
+Activity,Air transport (62),EUR
+Activity,Supporting and auxiliary transport activities; activities of travel agencies (63),EUR
+Activity,Post and telecommunications (64),EUR
+Activity,"Financial intermediation, except insurance and pension funding (65)",EUR
+Activity,"Insurance and pension funding, except compulsory social security (66)",EUR
+Activity,Activities auxiliary to financial intermediation (67),EUR
+Activity,Real estate activities (70),EUR
+Activity,Renting of machinery and equipment without operator and of personal and household goods (71),EUR
+Activity,Computer and related activities (72),EUR
+Activity,Research and development (73),EUR
+Activity,Other business activities (74),EUR
+Activity,Public administration and defence; compulsory social security (75),EUR
+Activity,Education (80),EUR
+Activity,Health and social work (85),EUR
+Activity,Incineration of waste: Food,EUR
+Activity,Incineration of waste: Paper,EUR
+Activity,Incineration of waste: Plastic,EUR
+Activity,Incineration of waste: Metals and Inert materials,EUR
+Activity,Incineration of waste: Textiles,EUR
+Activity,Incineration of waste: Wood,EUR
+Activity,Incineration of waste: Oil/Hazardous waste,EUR
+Activity,"Biogasification of food waste, incl. land application",EUR
+Activity,"Biogasification of paper, incl. land application",EUR
+Activity,"Biogasification of sewage slugde, incl. land application",EUR
+Activity,"Composting of food waste, incl. land application",EUR
+Activity,"Composting of paper and wood, incl. land application",EUR
+Activity,"Waste water treatment, food",EUR
+Activity,"Waste water treatment, other",EUR
+Activity,Landfill of waste: Food,EUR
+Activity,Landfill of waste: Paper,EUR
+Activity,Landfill of waste: Plastic,EUR
+Activity,Landfill of waste: Inert/metal/hazardous,EUR
+Activity,Landfill of waste: Textiles,EUR
+Activity,Landfill of waste: Wood,EUR
+Activity,Activities of membership organisation n.e.c. (91),EUR
+Activity,"Recreational, cultural and sporting activities (92)",EUR
+Activity,Other service activities (93),EUR
+Activity,Private households with employed persons (95),EUR
+Activity,Extra-territorial organizations and bodies,EUR
+Commodity,Paddy rice,EUR
+Commodity,Wheat,EUR
+Commodity,Cereal grains nec,EUR
+Commodity,"Vegetables, fruit, nuts",EUR
+Commodity,Oil seeds,EUR
+Commodity,"Sugar cane, sugar beet",EUR
+Commodity,Plant-based fibers,EUR
+Commodity,Crops nec,EUR
+Commodity,Cattle,EUR
+Commodity,Pigs,EUR
+Commodity,Poultry,EUR
+Commodity,Meat animals nec,EUR
+Commodity,Animal products nec,EUR
+Commodity,Raw milk,EUR
+Commodity,"Wool, silk-worm cocoons",EUR
+Commodity,Manure (conventional treatment),EUR
+Commodity,Manure (biogas treatment),EUR
+Commodity,"Products of forestry, logging and related services (02)",EUR
+Commodity,Fish and other fishing products; services incidental of fishing (05),EUR
+Commodity,Anthracite,EUR
+Commodity,Coking Coal,EUR
+Commodity,Other Bituminous Coal,EUR
+Commodity,Sub-Bituminous Coal,EUR
+Commodity,Patent Fuel,EUR
+Commodity,Lignite/Brown Coal,EUR
+Commodity,BKB/Peat Briquettes,EUR
+Commodity,Peat,EUR
+Commodity,"Crude petroleum and services related to crude oil extraction, excluding surveying",EUR
+Commodity,"Natural gas and services related to natural gas extraction, excluding surveying",EUR
+Commodity,Natural Gas Liquids,EUR
+Commodity,Other Hydrocarbons,EUR
+Commodity,Uranium and thorium ores (12),EUR
+Commodity,Iron ores,EUR
+Commodity,Copper ores and concentrates,EUR
+Commodity,Nickel ores and concentrates,EUR
+Commodity,Aluminium ores and concentrates,EUR
+Commodity,Lithium,EUR
+Commodity,"Lead, zinc and tin ores and concentrates",EUR
+Commodity,Other non-ferrous metal ores and concentrates,EUR
+Commodity,Stone,EUR
+Commodity,Sand and clay,EUR
+Commodity,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",EUR
+Commodity,Products of meat cattle,EUR
+Commodity,Products of meat pigs,EUR
+Commodity,Products of meat poultry,EUR
+Commodity,Meat products nec,EUR
+Commodity,products of Vegetable oils and fats,EUR
+Commodity,Dairy products,EUR
+Commodity,Processed rice,EUR
+Commodity,Sugar,EUR
+Commodity,Food products nec,EUR
+Commodity,Beverages,EUR
+Commodity,Fish products,EUR
+Commodity,Tobacco products (16),EUR
+Commodity,Textiles (17),EUR
+Commodity,Wearing apparel; furs (18),EUR
+Commodity,Leather and leather products (19),EUR
+Commodity,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),EUR
+Commodity,"Wood material for treatment, Re-processing of secondary wood material into new wood material",EUR
+Commodity,Pulp,EUR
+Commodity,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",EUR
+Commodity,Paper and paper products,EUR
+Commodity,Printed matter and recorded media (22),EUR
+Commodity,Coke Oven Coke,EUR
+Commodity,Gas Coke,EUR
+Commodity,Coal Tar,EUR
+Commodity,Motor Gasoline,EUR
+Commodity,Aviation Gasoline,EUR
+Commodity,Gasoline Type Jet Fuel,EUR
+Commodity,Kerosene Type Jet Fuel,EUR
+Commodity,Kerosene,EUR
+Commodity,Gas/Diesel Oil,EUR
+Commodity,Heavy Fuel Oil,EUR
+Commodity,Refinery Gas,EUR
+Commodity,Liquefied Petroleum Gases (LPG),EUR
+Commodity,Refinery Feedstocks,EUR
+Commodity,Ethane,EUR
+Commodity,Naphtha,EUR
+Commodity,White Spirit & SBP,EUR
+Commodity,Lubricants,EUR
+Commodity,Bitumen,EUR
+Commodity,Paraffin Waxes,EUR
+Commodity,Petroleum Coke,EUR
+Commodity,Non-specified Petroleum Products,EUR
+Commodity,Nuclear fuel,EUR
+Commodity,"Plastics, basic",EUR
+Commodity,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",EUR
+Commodity,N-fertiliser,EUR
+Commodity,P- and other fertiliser,EUR
+Commodity,Chemicals nec,EUR
+Commodity,Charcoal,EUR
+Commodity,Additives/Blending Components,EUR
+Commodity,Biogasoline,EUR
+Commodity,Biodiesels,EUR
+Commodity,Other Liquid Biofuels,EUR
+Commodity,Rubber and plastic products (25),EUR
+Commodity,Glass and glass products,EUR
+Commodity,"Secondary glass for treatment, Re-processing of secondary glass into new glass",EUR
+Commodity,Ceramic goods,EUR
+Commodity,"Bricks, tiles and construction products, in baked clay",EUR
+Commodity,"Cement, lime and plaster",EUR
+Commodity,"Ash for treatment, Re-processing of ash into clinker",EUR
+Commodity,Other non-metallic mineral products,EUR
+Commodity,Basic iron and steel and of ferro-alloys and first products thereof,EUR
+Commodity,"Secondary steel for treatment, Re-processing of secondary steel into new steel",EUR
+Commodity,Precious metals,EUR
+Commodity,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",EUR
+Commodity,Aluminium and aluminium products,EUR
+Commodity,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",EUR
+Commodity,"Lead, zinc and tin and products thereof",EUR
+Commodity,"Secondary lead for treatment, Re-processing of secondary lead into new lead",EUR
+Commodity,Copper products,EUR
+Commodity,"Secondary copper for treatment, Re-processing of secondary copper into new copper",EUR
+Commodity,Other non-ferrous metal products,EUR
+Commodity,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",EUR
+Commodity,Foundry work services,EUR
+Commodity,"Fabricated metal products, except machinery and equipment (28)",EUR
+Commodity,Machinery and equipment n.e.c. (29),EUR
+Commodity,Office machinery and computers (30),EUR
+Commodity,Electrical machinery and apparatus n.e.c. (31),EUR
+Commodity,"Radio, television and communication equipment and apparatus (32)",EUR
+Commodity,"Medical, precision and optical instruments, watches and clocks (33)",EUR
+Commodity,"Motor vehicles, trailers and semi-trailers (34)",EUR
+Commodity,Other transport equipment (35),EUR
+Commodity,Furniture; other manufactured goods n.e.c. (36),EUR
+Commodity,Secondary raw materials,EUR
+Commodity,"Bottles for treatment, Recycling of bottles by direct reuse",EUR
+Commodity,Electricity,EUR
+Commodity,Transmission services of electricity,EUR
+Commodity,Distribution and trade services of electricity,EUR
+Commodity,Coke oven gas,EUR
+Commodity,Blast Furnace Gas,EUR
+Commodity,Oxygen Steel Furnace Gas,EUR
+Commodity,Gas Works Gas,EUR
+Commodity,Biogas,EUR
+Commodity,Distribution services of gaseous fuels through mains,EUR
+Commodity,Steam and hot water supply services,EUR
+Commodity,"Collected and purified water, distribution services of water (41)",EUR
+Commodity,Construction work (45),EUR
+Commodity,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",EUR
+Commodity,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",EUR
+Commodity,Retail trade services of motor fuel,EUR
+Commodity,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",EUR
+Commodity,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",EUR
+Commodity,Hotel and restaurant services (55),EUR
+Commodity,Railway transportation services,EUR
+Commodity,Other land transportation services,EUR
+Commodity,Transportation services via pipelines,EUR
+Commodity,Sea and coastal water transportation services,EUR
+Commodity,Inland water transportation services,EUR
+Commodity,Air transport services (62),EUR
+Commodity,Supporting and auxiliary transport services; travel agency services (63),EUR
+Commodity,Post and telecommunication services (64),EUR
+Commodity,"Financial intermediation services, except insurance and pension funding services (65)",EUR
+Commodity,"Insurance and pension funding services, except compulsory social security services (66)",EUR
+Commodity,Services auxiliary to financial intermediation (67),EUR
+Commodity,Real estate services (70),EUR
+Commodity,Renting services of machinery and equipment without operator and of personal and household goods (71),EUR
+Commodity,Computer and related services (72),EUR
+Commodity,Research and development services (73),EUR
+Commodity,Other business services (74),EUR
+Commodity,Public administration and defence services; compulsory social security services (75),EUR
+Commodity,Education services (80),EUR
+Commodity,Health and social work services (85),EUR
+Commodity,Food waste for treatment: incineration,EUR
+Commodity,Paper waste for treatment: incineration,EUR
+Commodity,Plastic waste for treatment: incineration,EUR
+Commodity,Intert/metal waste for treatment: incineration,EUR
+Commodity,Textiles waste for treatment: incineration,EUR
+Commodity,Wood waste for treatment: incineration,EUR
+Commodity,Oil/hazardous waste for treatment: incineration,EUR
+Commodity,Food waste for treatment: biogasification and land application,EUR
+Commodity,Paper waste for treatment: biogasification and land application,EUR
+Commodity,Sewage sludge for treatment: biogasification and land application,EUR
+Commodity,Food waste for treatment: composting and land application,EUR
+Commodity,Paper and wood waste for treatment: composting and land application,EUR
+Commodity,Food waste for treatment: waste water treatment,EUR
+Commodity,Other waste for treatment: waste water treatment,EUR
+Commodity,Food waste for treatment: landfill,EUR
+Commodity,Paper for treatment: landfill,EUR
+Commodity,Plastic waste for treatment: landfill,EUR
+Commodity,Inert/metal/hazardous waste for treatment: landfill,EUR
+Commodity,Textiles waste for treatment: landfill,EUR
+Commodity,Wood waste for treatment: landfill,EUR
+Commodity,Membership organisation services n.e.c. (91),EUR
+Commodity,"Recreational, cultural and sporting services (92)",EUR
+Commodity,Other services (93),EUR
+Commodity,Private households with employed persons (95),EUR
+Commodity,Extra-territorial organizations and bodies,EUR
+Factor of production,Value added,EUR
+Satellite account,CH4,kg
+Satellite account,CO2,kg
+Satellite account,Employment,1000 p
+Satellite account,Primary energy,TJ
+Satellite account,N2O,kg
