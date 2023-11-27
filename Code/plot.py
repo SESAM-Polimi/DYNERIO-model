@@ -82,6 +82,8 @@ def plot_mat_demand(paths, user, mrio, prices):
     materials_extraction.columns = materials_extraction.columns.get_level_values(-1)
     materials_extraction.reset_index(inplace=True)
     
+    materials_extraction.to_excel(f"{paths.loc['mrio plots',user]}\\materials_extraction.xlsx")
+    
     mat_total = materials_extraction.set_index(["regions from","commodities","regions to","activities","scenarios","years"])
     mat_total = mat_total.groupby(["commodities","scenarios","years"]).sum()
     mat_total.reset_index(inplace=True)

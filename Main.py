@@ -151,6 +151,7 @@ mat_recycled_df_tot.set_index(["scenarios","technologies","regions","sensitiviti
 mat_recycled_df_tot = mat_recycled_df_tot.groupby(level=["scenarios","regions","sensitivities","materials",'years'], axis=0).sum()
 mat_recycled_df_tot = mat_recycled_df_tot.groupby(level=["scenarios","regions","sensitivities","materials",'years'])['value'].cumsum().to_frame()
 mat_recycled_df_tot.reset_index(inplace=True)
+mat_recycled_df_tot.to_excel(f"{paths.loc['mrio plots',user]}\\materials_recycling.xlsx")
 
 for mat in mats:
     fig_rec = px.area(
